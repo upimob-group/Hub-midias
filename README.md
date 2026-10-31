@@ -6,3 +6,4 @@ O Instagram exige que cada imagem publicada pela API esteja em um link público;
 
 - `grid-estreia/` — as 24 artes do grid de estreia do @hubimobiliario.group, numeradas na ordem de publicação.
 - `reels/` — os 3 Reels da série "HUB na prática" (MP4, 9:16) e as capas, para a semana de lançamento.
+- `lancamento/` — artes da semana de lançamento do HUB (carrosséis, posts e stories), numeradas na ordem do roteiro.
